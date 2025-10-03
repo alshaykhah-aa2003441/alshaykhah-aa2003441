@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Alshaykhah 
 
-<!--
-**alshaykhah-aa2003441/alshaykhah-aa2003441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Computational Linguist | Arabic NLP & AI Researcher | QCRI Intern**
 
-Here are some ideas to get you started:
+🎓 B.A. in English Linguistics & Computer Science Minor, Qatar University  
+🔬 Focused on Arabic NLP, speech processing, and educational AI applications.  
+📚 Research interests: phonology modeling, ASR evaluation, LLM fine-tuning, and child-language technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+- 💬 Passionate about building Arabic language technologies for education and accessibility  
+- 🤖 Experienced in full-stack system development, integrating ASR, Flask, and React  
+- 📝 Currently co-authoring research papers on Arabic NLP and pronunciation assessment  
+- 🎯 Interested in advancing Arabic LLMs and rule-based modeling
+
+---
+
+### 🛠️ Tech I Use
+`Python` · `JavaScript` · `Flask` · `React` · `Node.js` · `MongoDB` · `MySQL` · `NLTK` · `spaCy` · `JiWER`
+
+---
+
+### 📫 Let's Connect
