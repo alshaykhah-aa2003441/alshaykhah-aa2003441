@@ -1,4 +1,4 @@
-# Hi there, I'm Alshaykhah 
+# Hi there, I'm Alshaykhah 🌟
 
 💡 **Computational Linguist | Arabic NLP & AI Researcher | QCRI Intern**
 
@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 About Me
+### 🌟 About Me
 - 💬 Passionate about building Arabic language technologies for education and accessibility  
 - 🤖 Experienced in full-stack system development, integrating ASR, Flask, and React  
 - 📝 Currently co-authoring research papers on Arabic NLP and pronunciation assessment  
