@@ -22,3 +22,4 @@
 ---
 
 ### 📫 Let's Connect
+[LinkedIn](www.linkedin.com/in/alshaykhah-alshammari-5a5201307) · [Email](mailto:alshshaikhaalsh@gmail.com)
